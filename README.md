@@ -87,11 +87,11 @@ Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 17 anos e sou natu
 
 <div style="display: flex">
     <img 
-        style="height: 200px;  margin-right: 10px"
+        style="height: 150px;  margin-right: 10px"
         src="https://github-readme-stats.vercel.app/api?username=ArthurMarks&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
     />
     <img 
-        style="height: 200px"
+        style="height: 150px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMarks&theme=dark&layout=compact&custom_title=Tecnologias"
     />
 </div>
