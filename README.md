@@ -8,75 +8,87 @@ Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 17 anos e sou natu
 
 ### 💻 Linguagens e Tecnologias
 
-<div class="icons" style="display: flex;  padding-bottom: 10px">
+<div class="icons" style="display: flex">
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="HTML5"
         title="HTML5"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="CSS3"
         title="CSS3"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="JavaScript"
         title="JavaScript"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="TypeScript"
         title="TypeScript"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="React"
         title="React"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="NextJS"
         title="NextJS"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="PostgresSQL"
         title="PostgresSQL"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="TailwindCSS"
         title="TailwindCSS"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="Python"
         title="Python"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="CSharp"
         title="CSharp"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
     />
     <img 
-        style="height: 30px;  padding-right: 20px"
+        hspace="10"
+        height="30"
         alt="Java"
         title="Java"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
     <img 
-        style="height: 30px"
+        hspace="10"
+        height="30"
         alt="Git"
         title="Git"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -87,11 +99,13 @@ Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 17 anos e sou natu
 
 <div style="display: flex">
     <img 
-        style="height: 150px;  padding-right: 20px"
+        hspace="10"
+        height="150"
         src="https://github-readme-stats.vercel.app/api?username=ArthurMarks&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
     />
     <img 
-        style="height: 150px"
+        hspace="10"
+        height="150"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMarks&theme=dark&layout=compact&custom_title=Tecnologias"
     />
 </div>
