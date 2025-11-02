@@ -1,16 +1,97 @@
-## Hi there 👋
+# 🚀 Arthur Marks
 
-<!--
-**ArthurMarks/ArthurMarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 17 anos e sou natural de Goiás, Brasil. Concluo o ensino médio no IF Goiano, no curso de informática para Internet. Atualmente, desenvolvo projetos pessoais e acadêmicos, integrando conhecimentos de Banco de Dados com Desenvolvimento Web. Sou entusiasta na área de computação e tenho grande experiência em desenvolvimento de jogos web e sites de notícia. Ocasionalmente, compartilho novos projetos e ideias, seja pelo próprio [GitHub](https://github.com/ArthurMarks) ou pelo [Instagram](https://www.instagram.com/arthurmarks._/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Linguagens e Tecnologias
+
+<div class="icons" style="display: flex;  gap: 10px;  padding-bottom: 10px;  flex-wrap: wrap">
+    <img 
+        width="30"
+        alt="HTML5"
+        title="HTML5"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="CSS3"
+        title="CSS3"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="JavaScript"
+        title="JavaScript"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="TypeScript"
+        title="TypeScript"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="React"
+        title="React"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="NextJS"
+        title="NextJS"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="PostgresSQL"
+        title="PostgresSQL"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="TailwindCSS"
+        title="TailwindCSS"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    />
+    <img
+        width="30"
+        alt="Python"
+        title="Python"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="CSharp"
+        title="CSharp"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="Java"
+        title="Java"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        width="30"
+        alt="Git"
+        title="Git"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />  
+</div>  
+
+### 📊 Estatísticas
+
+<div style="display: flex;  justify-content: center;  gap: 20px;  flex-wrap: wrap">
+    <img
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=ArthurMarks&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+    />
+    <img 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMarks&theme=dark&layout=compact&custom_title=Tecnologias"
+    />
+</div>
