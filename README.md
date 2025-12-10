@@ -94,20 +94,3 @@ Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 17 anos e sou natu
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />  
 </div>  
-
-### 📊 Estatísticas
-
-<div style="display: flex">
-    <img 
-        hspace="10"
-        height="150"
-        width="350"
-        src="https://github-readme-stats.vercel.app/api?username=ArthurMarks&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-    />
-    <img 
-        hspace="10"
-        height="150"
-        width="350"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMarks&theme=dark&layout=compact&custom_title=Tecnologias"
-    />
-</div>
