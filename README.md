@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 17 anos e sou natural de Goiás, Brasil. Concluo o ensino médio no IF Goiano, no curso de informática para Internet. Atualmente, desenvolvo projetos pessoais e acadêmicos, integrando conhecimentos de Banco de Dados com Desenvolvimento Web. Sou entusiasta na área de computação e tenho grande experiência em desenvolvimento de jogos web e sites de notícia. Ocasionalmente, compartilho novos projetos e ideias, seja pelo próprio [GitHub](https://github.com/ArthurMarks) ou pelo [Instagram](https://www.instagram.com/arthurmarks._/).
+Seja bem-vindo! Me chamo Arthur Marques Morais Bacelli, tenho 18 anos e sou natural de Goiás, Brasil. Sou técnico em Informática pelo Instituto Federal e atualmente desenvolvo projetos pessoais e acadêmicos, integrando conhecimentos de Banco de Dados com Desenvolvimento Web. Sou entusiasta na área de computação e tenho boa experiência em desenvolvimento de jogos web e sites de notícia. Ocasionalmente, compartilho novos projetos e ideias, seja pelo próprio [GitHub](https://github.com/ArthurMarks) ou pelo [Instagram](https://www.instagram.com/arthurmarks._/).
 
 ---
 
